@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=hyprwifi
+Comment=Manage Wi-Fi connections via nmcli
+Exec=wifi-manager
+Icon=network-wireless
+Terminal=false
+Type=Application
+Categories=Network;Settings;
