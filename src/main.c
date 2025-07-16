@@ -1,1 +1,0 @@
-/home/kali/Documents/connecteur de wifi ultra pro max/hyprwifi/main.c
